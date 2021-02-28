@@ -1,7 +1,7 @@
 ## Fixes
 <!-- If PR doesn't fully resolve the issue, replace 'Fixes' below with 'Related to'. -->
 <!-- If there is no issue being resolved, open one before creating this pull request. -->
-Fixes #[issue number] by @[issue author]
+Resolves open-aquarium/open-aquarium#[issue number] by @[issue author].
 
 ## Description
 <!-- Concisely describe what the pull request does. -->
@@ -17,6 +17,7 @@ Fixes #[issue number] by @[issue author]
 
 ## Checklist
 <!-- Replace  the [ ] with [x] to check the boxes. --> 
+- [ ] My pull request is linked to the [Open Aquarium](https://github.com/orgs/open-aquarium/projects/1) project.
 - [ ] My pull request has a descriptive title (not a vague title like `Update
   index.md`).
 - [ ] My pull request targets the *default* branch of the repository (`main` or `master`).
@@ -24,6 +25,4 @@ Fixes #[issue number] by @[issue author]
 - [ ] My code follows the established code style of the repository.
 - [ ] I added tests for the changes I made (if applicable).
 - [ ] I added or updated documentation (if applicable).
-- [ ] I tried running the project locally and verified that there are no
-  visible errors.
-  
+- [ ] I tried running the project locally and verified that there are no visible errors.
